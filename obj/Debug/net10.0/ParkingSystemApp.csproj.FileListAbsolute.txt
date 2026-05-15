@@ -1,0 +1,14 @@
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.AssemblyInfoInputs.cache
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.AssemblyInfo.cs
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.csproj.CoreCompileInputs.cache
+D:\ParkingSystemApp\ParkingSystemApp\bin\Debug\net10.0\ParkingSystemApp.exe
+D:\ParkingSystemApp\ParkingSystemApp\bin\Debug\net10.0\ParkingSystemApp.deps.json
+D:\ParkingSystemApp\ParkingSystemApp\bin\Debug\net10.0\ParkingSystemApp.runtimeconfig.json
+D:\ParkingSystemApp\ParkingSystemApp\bin\Debug\net10.0\ParkingSystemApp.dll
+D:\ParkingSystemApp\ParkingSystemApp\bin\Debug\net10.0\ParkingSystemApp.pdb
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.dll
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\refint\ParkingSystemApp.dll
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.pdb
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ParkingSystemApp.genruntimeconfig.cache
+D:\ParkingSystemApp\ParkingSystemApp\obj\Debug\net10.0\ref\ParkingSystemApp.dll
